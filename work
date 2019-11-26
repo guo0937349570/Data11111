@@ -14,4 +14,10 @@ x.dtype    dtype('int32')
 使用numpy.arange() 創建陣列
  x = np.arange(5)     [0 1 2 3 4]
  
- 
+ x = np.arange(5, dtype =  float)  [0. 1. 2. 3. 4.]
+
+
+
+使用numpy.linspace創建等差數列
+
+
