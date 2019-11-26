@@ -1,0 +1,17 @@
+創建陣列1
+np1 = np.array([1, 2, 3])
+np2 = np.array([3, 4, 5])
+
+
+ndarray 的關鍵屬性
+
+x = np.array([[1, 2, 3], [4, 5, 6]], np.int32)
+
+x.shape    (2,3)
+x.dtype    dtype('int32')
+
+
+使用numpy.arange() 創建陣列
+ x = np.arange(5)     [0 1 2 3 4]
+ 
+ 
